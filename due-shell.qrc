@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/bottom_actions/shutdown.svg</file>
+        <file>res/bottom_actions/reboot.svg</file>
+        <file>res/desktopbackground/desktopBackground.jpg</file>
+        <file>res/lock/lock.apng</file>
+        <file>src/qml/AuthFailAni.qml</file>
+        <file>src/qml/DesktopBackground.qml</file>
+        <file>src/qml/LockFrame.qml</file>
+        <file>src/qml/LockStatus.qml</file>
+        <file>src/qml/main.qml</file>
+        <file>src/qml/ShutdownAndRebootButton.qml</file>
+        <file>src/qml/ShutdownFrame.qml</file>
+        <file>src/qml/SwipeAni.qml</file>
+        <file>src/qml/UnLockCanvas.qml</file>
+        <file>src/qml/UnLockCircles.qml</file>
+        <file>src/qml/UnLockFrame.qml</file>
+        <file>src/qml/UnLockKeyboard.qml</file>
+        <file>src/qml/UnLockKeyboardButton.qml</file>
+    </qresource>
+</RCC>
